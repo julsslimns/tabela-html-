@@ -1,0 +1,25 @@
+th {
+    background-color: #BB86FC;
+    border: none;
+    height: 30px;
+    width: 60px;
+    padding: 5px;
+    font: 1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+   
+    
+}
+h1{
+    margin-bottom: 10px;
+    font: 1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+td {
+    background-color: #424250;
+    color: white; 
+    border-color: black;
+    height: 30px;
+    width: 60px;
+    padding: 5px;
+    font:  1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+   
+  
+}   
